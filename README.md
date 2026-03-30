@@ -48,4 +48,3 @@ Microsoft Fabric| PySpark | BigQuery |Talend |Docker | Apache Airflow |
 ---
 [![](https://visitcount.itsvg.in/api?id=akash&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
