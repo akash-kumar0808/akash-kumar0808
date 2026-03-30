@@ -26,10 +26,23 @@
 - 📊 Experience in Insurance & NBFC domain  
 
 ---
-## 🛠️ Tech Stack
-SQL | Oracle | Talend | Apache Airflow |  GCP | Microsoft Fabric| PySpark | BigQuery |
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Akash Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akash.rajpoot0808@gmail.com) 
+
+# 💻 Tech Stack:
+Microsoft Fabric| PySpark | BigQuery |Talend |Docker | Apache Airflow |
 
 ---
- 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
